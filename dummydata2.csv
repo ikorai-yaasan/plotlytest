@@ -1,0 +1,16 @@
+date,name,model,rank,id
+2007/2/22,takeshi,M1,H,test-1
+2007/2/23,takeshi,M1,M,test-2
+2007/2/24,shizuka,M1,L,test-3
+2007/2/25,takeshi,D1,L,test-4
+2007/2/26,takeshi,D1,L,test-5
+2007/2/27,nobita,D1,L,test-6
+2007/2/28,nobita,D1,M,test-7
+2007/3/1,nobita,S2,H,test-8
+2007/3/2,takeshi,S2,H,test-9
+2007/3/3,takeshi,S2,H,test-10
+2007/3/4,suneo,S2,H,test-11
+2007/3/5,suneo,S2,H,test-12
+2007/3/6,dora,S2,L,test-13
+2007/3/7,takeshi,X,H,test-14
+2007/3/8,nobita,X,H,test-15
